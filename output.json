@@ -1,0 +1,12 @@
+{
+   "result": "success",
+   "documentation": "https://www.exchangerate-api.com/docs",
+   "terms_of_use": "https://www.exchangerate-api.com/terms",
+   "time_last_update_unix": 1718582402,
+   "time_last_update_utc": "Mon, 17 Jun 2024 00:00:02 +0000",
+   "time_next_update_unix": 1718668802,
+   "time_next_update_utc": "Tue, 18 Jun 2024 00:00:02 +0000",
+   "base_code": "INR",
+   "target_code": "USD",
+   "conversion_rate": 0.01196
+}
